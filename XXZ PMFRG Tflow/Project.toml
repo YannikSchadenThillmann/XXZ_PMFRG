@@ -1,0 +1,8 @@
+[deps]
+CairoMakie = "13f3f980-e62b-5c42-98c6-ff1f3baf88f0"
+Dierckx = "39dd38d3-220a-591b-8e3c-4c3a8c710a94"
+FRGLatticeEvaluation = "a44b592b-45f7-4b02-a4df-e53b23f0d903"
+HDF5 = "f67ccb44-e63f-5c2f-98bd-6dc0ccc4ba2f"
+OrdinaryDiffEq = "1dea7af3-3e70-54e6-95c3-0bf5283fa5ed"
+PMFRG_XXZ_Tflow = "95fc6c8f-afd3-43f5-9129-3d21d3de9fb3"
+SpinFRGLattices = "053fb7f8-31b7-4f68-aef8-4452b415dd8c"
